@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: SEO Wizard
-datePublished: '2016-06-22T20:33:54.474Z'
-dateModified: '2016-06-22T20:33:49.097Z'
+description: SEO Greenville SC
+datePublished: '2016-06-22T20:35:13.101Z'
+dateModified: '2016-06-22T20:34:53.633Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-22-seo-wizard.md
@@ -17,7 +17,7 @@ url: seo-wizard/index.html
 _type: Article
 
 ---
-SEO Wizard
+SEO Greenville SC
 
 Greenville SEO
 
